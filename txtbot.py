@@ -5,7 +5,7 @@ import threading
 
 #--------Variable declaration and object initialization--------#
 
-API_KEY = "6475353684:AAHy_PD0T5dW4Wqw6uZzwhrFxHoG33R4GfE"
+API_KEY = "<YOUR_APIKEY>"
 bot = telebot.TeleBot(API_KEY)
 
 # List of file paths
